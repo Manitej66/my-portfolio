@@ -1,4 +1,4 @@
-<div class="container font-montserrat" id="hero">
+<div class="container font-MaisonNeueDemi" id="hero">
   <div class="h-screen flex flex-col justify-center p-2">
     <div class="mx-auto">
       <img
@@ -8,7 +8,7 @@
       />
       <p class="text-xl">Hi! I'm</p>
       <p
-        class="md:text-6xl text-4xl font-bold py-2 font-montserrat bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-blue-600"
+        class="md:text-6xl text-4xl font-bold py-2 font-MaisonNeue bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-blue-600"
       >
         Maniteja pratha
       </p>
@@ -30,7 +30,7 @@
           />
         </a>
         <a
-          href="https://twitter.com/PrataManitej"
+          href="https://www.instagram.com/syntax_66/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -41,7 +41,7 @@
           />
         </a>
         <a
-          href="https://github.com/Manitej66"
+          href="https://github.com/manitej66"
           target="_blank"
           rel="noopener noreferrer"
         >

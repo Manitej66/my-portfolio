@@ -12,8 +12,10 @@
   });
 </script>
 
-<div class="container font-montserrat text-md" id="blog">
-  <p class="font-bold text-4xl font-montserrat text-center text-blue-600 py-2">
+<div class="container font-MaisonNeueDemi text-md" id="blog">
+  <p
+    class="font-bold text-4xl font-MaisonNeueDemi text-center text-blue-600 py-2"
+  >
     My Latest articles
   </p>
   <div

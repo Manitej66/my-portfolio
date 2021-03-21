@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
+
+@font-face {
+  font-family: "MaisonNeue";
+  src: url("../fonts/MaisonNeue-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MaisonNeueDemi";
+  src: url("../fonts/MaisonNeue-Demi.ttf") format("truetype");
+}
+
 @tailwind utilities;

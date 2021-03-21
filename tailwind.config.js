@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         montserrat: ["montserrat", "sans-serif"],
+        MaisonNeue: ["MaisonNeue"],
+        MaisonNeueDemi: ["MaisonNeueDemi"],
       },
     },
   },

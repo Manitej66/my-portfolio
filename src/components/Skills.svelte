@@ -1,11 +1,11 @@
 <div id="skills">
-  <p class="font-bold text-4xl font-montserrat text-center text-blue-600 py-2">
+  <p class="font-bold text-4xl font-MaisonNeue text-center text-blue-600 py-2">
     Skills
   </p>
 
   <hr class="w-1/2 mx-auto" />
 
-  <p class=" text-2xl font-montserrat text-center py-2">Languages</p>
+  <p class=" text-2xl font-MaisonNeueDemi text-center py-2">Languages</p>
 
   <hr class="w-1/2 mx-auto" />
 
@@ -36,7 +36,7 @@
 
   <hr class="w-1/2 mt-4 mx-auto" />
 
-  <p class=" text-2xl mx-auto rounded-lg font-montserrat text-center py-2">
+  <p class=" text-2xl mx-auto rounded-lg font-MaisonNeueDemi text-center py-2">
     Frameworks and libraries
   </p>
   <hr class="w-1/2 mx-auto" />
@@ -68,7 +68,7 @@
 
   <hr class="w-1/2 mt-4 mx-auto" />
 
-  <p class=" text-2xl mx-auto rounded-lg font-montserrat text-center py-2">
+  <p class=" text-2xl mx-auto rounded-lg font-MaisonNeueDemi text-center py-2">
     Databases & BaaS
   </p>
   <hr class="w-1/2 mx-auto" />

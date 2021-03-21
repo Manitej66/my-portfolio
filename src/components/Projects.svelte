@@ -1,4 +1,4 @@
-<div id="projects" class="font-montserrat">
+<div id="projects" class="font-MaisonNeueDemi">
   <p class="font-bold text-4xl text-center text-blue-600 py-2">Projects</p>
 
   <div
@@ -8,7 +8,7 @@
       on:click={() => {
         window.open("https://twitsubs.vercel.app/", "_blank");
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/twitsubs.png" alt="" />
       <p class="pt-2 text-xl font-bold">Twitsubs</p>
@@ -22,7 +22,7 @@
       on:click={() => {
         window.open("https://twitter.com/TechBot19", "_blank");
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/bot.png" alt="" />
       <p class="pt-2 text-xl font-bold">Tech twitter bot</p>
@@ -33,7 +33,7 @@
       on:click={() => {
         window.open("https://assign-me.vercel.app/", "_blank");
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/assign.png" alt="" />
       <p class="pt-2 text-xl font-bold">Text to handwriting PDF</p>
@@ -49,7 +49,7 @@
           "_blank"
         );
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/rps.png" alt="" />
       <p class="pt-2 text-xl font-bold">Rock paper scissors app</p>
@@ -63,7 +63,7 @@
           "_blank"
         );
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/tech.png" alt="" />
       <p class="pt-2 text-xl font-bold">Tech shots</p>
@@ -76,7 +76,7 @@
           "_blank"
         );
       }}
-      class="border-blue-600 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
+      class="border-blue-600 h-96 border-solid border-2 p-4 rounded-lg shadow-2xl cursor-pointer transform transition duration-500 hover:scale-110"
     >
       <img src="/ex.png" alt="" />
       <p class="pt-2 text-xl font-bold">Product Expiry Notifier</p>
@@ -90,6 +90,5 @@
     }}
     class="p-3 shadow-2xl mx-auto block bg-blue-600 mb-4 text-white"
     >View all projects</button
-  >
   >
 </div>
